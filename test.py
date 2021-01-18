@@ -1,3 +1,3 @@
 #/usr/bin/python
 
-print('j aime la raclette!')
+print('J aime la raclette!')
